@@ -10,8 +10,7 @@
 <h2>Table of Contents</h2>
 
 <ol>
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#classes">Classes</a>
+   <li><a href="#classes">Classes</a>
         <ul>
             <li><a href="#applauncher">AppLauncher</a></li>
             <li><a href="#loginformgui">LoginFormGUI</a></li>
@@ -22,10 +21,6 @@
         </ul>
     </li>
 </ol>
-
-<h2 id="introduction">Introduction</h2>
-
-<p>The <strong>AppLauncher</strong> project aims to provide a simple user authentication system for Java applications using Swing GUI components. Users can log in using their credentials or register for a new account.</p>
 
 <h2 id="classes">Classes</h2>
 
